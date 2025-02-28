@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4_lesson_elephant_movement", "4_lesson_elephant_movement\4_lesson_elephant_movement.csproj", "{D10A7F0F-117B-4398-8DD9-6371413679E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D10A7F0F-117B-4398-8DD9-6371413679E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D10A7F0F-117B-4398-8DD9-6371413679E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D10A7F0F-117B-4398-8DD9-6371413679E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D10A7F0F-117B-4398-8DD9-6371413679E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7FB25C7-EBD2-444F-A885-25ACD0D3A11F}
+	EndGlobalSection
+EndGlobal
