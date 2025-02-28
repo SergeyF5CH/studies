@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "intersection", "intersection\intersection.csproj", "{4BF28112-74E9-41F5-8E86-E2830519AD7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BF28112-74E9-41F5-8E86-E2830519AD7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BF28112-74E9-41F5-8E86-E2830519AD7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BF28112-74E9-41F5-8E86-E2830519AD7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BF28112-74E9-41F5-8E86-E2830519AD7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB5D6FCD-2F20-42B3-AFCE-8EB9D3C5EF6D}
+	EndGlobalSection
+EndGlobal
