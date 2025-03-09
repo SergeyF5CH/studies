@@ -18,20 +18,20 @@ class Program
         
         Console.WriteLine("");
 
-        List<string> even_Num = new List<string>();
+        int even_Num = 0;
         int z = 0;
         foreach (string i in MyArray)
         {
             if (MyArray[z].Length % 2 == 0) 
             {
-                even_Num.Add(MyArray[z]);
+                even_Num++;
                
             }
             z++;
 
         }
         
-        Console.Write(even_Num.Count);
+        Console.Write(even_Num);
 
 
     }
